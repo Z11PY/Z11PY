@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm currently working on expanding my knowledge of the C# programming language
+I'm currently learning Unity's VFX Graph System
+
 
 <!--
 **Z11PY/Z11PY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
